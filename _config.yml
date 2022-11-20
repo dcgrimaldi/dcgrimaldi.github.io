@@ -1,4 +1,5 @@
 ---
 Welcome to my github page
 ---
-jekyll-theme-THEME
+theme: jekyll-theme-THEME
+---
