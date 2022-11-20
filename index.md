@@ -2,7 +2,7 @@
 title: Welcome!
 ---
 
-![mypicture](/pics/mypicture)
+![mypicture](/pics/mypicture.jpg)
 
 This is content I've developed for my course:
 
