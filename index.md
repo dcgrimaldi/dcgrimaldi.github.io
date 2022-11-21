@@ -1,6 +1,7 @@
 ---
 title: Welcome!
 ---
+![nebulapillars(jpg)](/pics/nebulapillars.jpg)
 
 ![mypicture](/pics/mypicture.jpg)
 
