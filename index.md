@@ -1,8 +1,6 @@
 ---
 title: Welcome!
 ---
-![nebulapillars](/pics/nebulapillars.jpg)
-
 ![mypicture](/pics/mypicture.jpg)
 
 This is content I've developed for my course:
